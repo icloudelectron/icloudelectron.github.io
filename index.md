@@ -14,7 +14,7 @@ TEL:17180470336
 
 QQ:3410275634
 
-EmailLicloudelectron@163.com
+Email:icloudelectron@163.com
 
 备用资源
 
@@ -22,7 +22,7 @@ EmailLicloudelectron@163.com
 
 2.github https://github.com/icloudelectron
 
-3码云 https://gitee.com/icloudelectron
+3.码云 https://gitee.com/icloudelectron
 
 //*
 
