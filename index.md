@@ -1,9 +1,6 @@
 ## # icloudelectron
 You can use the [editor on GitHub](https://github.com/icloudelectron/icloudelectron.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 
 //*
 # #网站正在维护中........
@@ -18,11 +15,11 @@ Email:icloudelectron@163.com
 
 ## #备用资源
 
-1.博客 https://www.cnblogs.com/icloudelectron/
+-1.博客 https://www.cnblogs.com/icloudelectron/
 
-2.github https://github.com/icloudelectron
+-2.github https://github.com/icloudelectron
 
-3.码云 https://gitee.com/icloudelectron
+-3.码云 https://gitee.com/icloudelectron
 
 //*
 
