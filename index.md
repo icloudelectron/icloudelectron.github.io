@@ -8,6 +8,7 @@
 
 - Email:icloudelectron@163.com
 
+```
 ## #备用资源
 
 - 1.博客 https://www.cnblogs.com/icloudelectron/
@@ -16,16 +17,7 @@
 
 - 3.码云 https://gitee.com/icloudelectron
 
-//*
 
-
-
-
-
-
-
-
-[Link](url) and ![Image](src)
 ```
 
 
